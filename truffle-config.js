@@ -10,5 +10,11 @@ module.exports = {
     develop: {
       port: 8545
     }
-  }
+  },
+  // compilers: {
+  //   solc: {
+  //     version: "0.4.17", // Update this to match your contract version
+  //     // More options here, such as optimization settings
+  //   },
+  // },
 };
